@@ -63,7 +63,7 @@ img{
 header{
   width: 100%;
   min-height: 100vh;
-  background-image: url(../image/IMG_2948.png);
+  background-image: url(../image/image1.png);
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center top;
@@ -99,7 +99,7 @@ nav ul li a:hover{
   top: 40%;
   left: 0;
   right: 0;
-  filter: drop-shadow(1px 1px 10px darkgray);
+    filter: drop-shadow(1px 1px 10px darkgray);
 }
 
 
@@ -107,7 +107,7 @@ nav ul li a:hover{
 /* menu */
 
 .menu-image{
-  background-image: url(../image/image2.jpg);
+  background-image: url(../image/image5.JPG);
 }
 
 .menu-content{
@@ -147,7 +147,7 @@ nav ul li a:hover{
 /* about */
 
 .about-image{
-  background-image: url(../image/image3.jpg);
+  background-image: url(../image/image6.JPG);
 }
 
 .about-content ul{
@@ -228,7 +228,7 @@ nav ul li a:hover{
 /* location */
 
 .location-image{
-  background-image: url(../image/image4.jpg);
+  background-image: url(../image/image7.jpg);
 }
 
 .map-image{
